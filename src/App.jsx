@@ -29,16 +29,7 @@ function App() {
         </div>
       </nav>
 
-      <div className="flex items-center space-x-6 px-6 text-sm border-b border-[#3c4043] mt-2">
-        <a href="#" className="text-blue-400 border-b-2 border-blue-400 pb-2">All</a>
-        <a href="#" className="hover:text-blue-400">Videos</a>
-        <a href="#" className="hover:text-blue-400">Short videos</a>
-        <a href="#" className="hover:text-blue-400">Images</a>
-        <a href="#" className="hover:text-blue-400">News</a>
-        <a href="#" className="hover:text-blue-400">Shopping</a>
-        <a href="#" className="hover:text-blue-400">More</a>
-        <span className="ml-auto text-sm text-gray-400">Tools</span>
-      </div>
+      
 
       <div className="px-6 py-6 max-w-3xl mx-auto">
         <div className="mb-6">
